@@ -4,8 +4,14 @@
     "type": "mit",
     "autoload": {
         "psr-4": {
-            "CrisSilva\\MsgTelegramPhp\\": "src/"
-        }
+            "CrisSilva\\MsgTelegramPhp\\": "src/",
+            "app\\" : "app/"
+        },
+        "files": [
+            "config/config.php"
+        ]
     },
-    "require": {}
+    "require": {
+        "telegram-bot/api": "^2.3"
+    }
 }
