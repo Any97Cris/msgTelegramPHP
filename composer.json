@@ -1,0 +1,11 @@
+{
+    "name": "cris_silva/msg-telegram-php",
+    "description": "Projeto para enviar mensagem com API para o Telegram",
+    "type": "mit",
+    "autoload": {
+        "psr-4": {
+            "CrisSilva\\MsgTelegramPhp\\": "src/"
+        }
+    },
+    "require": {}
+}
