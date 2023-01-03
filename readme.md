@@ -1,8 +1,3 @@
 ## Telegram Bot Chat
 
-### Hello
-
-```
-.........
-
-```
+### Comunicação com API do telegram - BotFather
